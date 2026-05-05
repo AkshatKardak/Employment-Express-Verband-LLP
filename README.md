@@ -6,9 +6,9 @@
 
 ## 🚀 Live Demo
 
-**🌐 Visit the website:** [https://akshatkardak.github.io/IT-3/](https://akshatkardak.github.io/IT-3/)
+**🌐 Visit the website:** [https://akshatkardak.github.io/IT-3/](https://akshatkardak.github.io/Employment-Express-Verband-LLP/)
 
-**⚙️ Admin Panel:** [https://akshatkardak.github.io/IT-3/admin.html](https://akshatkardak.github.io/IT-3/admin.html)
+**⚙️ Admin Panel:** [https://akshatkardak.github.io/IT-3/admin.html](https://akshatkardak.github.io/Employment-Express-Verband-LLP/admin.html)
 
 ---
 
